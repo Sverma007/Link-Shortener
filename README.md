@@ -1,2 +1,2 @@
-# URL-Shortener-Gui
-A basic URL Shortener Gui With Python By Using Tkinter Library
+# Link-Shortener-Gui
+This is code for making a basic Link/URL Shortener in python.
